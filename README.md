@@ -69,8 +69,6 @@ Intenté subir los cambios con:
 git push origin feature-lista
 ```
 
-Tuve un error de credenciales por lo cual no he podido actualizar la informacion en el repositorio: ![alt text](image.png)
-
 ---
 
 ## 4: Merge a la rama principal
